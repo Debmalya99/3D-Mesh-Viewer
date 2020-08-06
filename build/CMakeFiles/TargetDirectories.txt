@@ -1,0 +1,3 @@
+/home/dibakar/Debmalya-workspace/hobby/code-projects/3D_Mesh_Viewer/build/CMakeFiles/rebuild_cache.dir
+/home/dibakar/Debmalya-workspace/hobby/code-projects/3D_Mesh_Viewer/build/CMakeFiles/edit_cache.dir
+/home/dibakar/Debmalya-workspace/hobby/code-projects/3D_Mesh_Viewer/build/CMakeFiles/3D_Mesh_Viewer.dir
